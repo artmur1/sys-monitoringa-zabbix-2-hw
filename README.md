@@ -27,7 +27,7 @@
 
 ### Решение 1
 
-![alt text]()
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-2-hw/blob/main/monitoring2-zad-1.png)
 
  ---
 
@@ -60,9 +60,9 @@
 
 ### Решение 3
 
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-2-hw/blob/main/monitoring2-zad-2-1.png)
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-2-hw/blob/main/monitoring2-zad-2-2.png)
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-2-hw/blob/main/monitoring2-zad-2-3.png)
 
  ---
 
@@ -79,7 +79,7 @@
 
 ### Решение 4
 
-![alt text]()
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-2-hw/blob/main/monitoring2-zad-3-1.png)
 
  ---
 
